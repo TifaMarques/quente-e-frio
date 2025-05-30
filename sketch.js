@@ -1,4 +1,4 @@
-gglet x;
+let x;
 let y;
 
 function setup() {
